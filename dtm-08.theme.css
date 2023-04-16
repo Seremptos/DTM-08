@@ -19,12 +19,7 @@
   --PointlesslyLongVariableNameThatSupposedlyControlsAWarningAboutTheThemeBeingOutdatedButWhatDoIKnow: none; /* this variable wants you to leave it alone, please respect its wish unless you like red text at the bottom of the sidebar in user settings */
 }
 
-/* This removes the Gift button */
-.buttons-ejjZWC > button[aria-label="Envoyer un cadeau"] {
-    display: none;
-}
-
-/* This removes the Stickers button */
-.buttons-ejjZWC > button[aria-label="Ouvrir le sélecteur d'autocollant"] {
+/* This removes the Gift and the Stickers button respectively */
+.buttons-ejjZWC > button, .buttons-ejjZWC > div:nth-child(3) {
     display: none;
 }
