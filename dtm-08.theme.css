@@ -24,6 +24,6 @@
 }
 
 /* This removes the Stickers button */
-.buttons-uaqb-5 > div:nth-child(2) {
+.buttons-uaqb-5 button[aria-label="Open sticker picker"] {
     display: none;
 }
