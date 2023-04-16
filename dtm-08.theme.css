@@ -24,10 +24,6 @@
     display: none;
 }
 
-/* This removes the Gift button */
-.buttons-uaqb-5 > button[aria-label="Envoyer un cadeau"] {
-    display: none;
-}
 /* This removes the Stickers button */
 .buttons-uaqb-5 > button[aria-label="Ouvrir le sélecteur d'autocollant"] {
     display: none;
