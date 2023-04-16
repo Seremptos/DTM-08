@@ -19,11 +19,11 @@
   --PointlesslyLongVariableNameThatSupposedlyControlsAWarningAboutTheThemeBeingOutdatedButWhatDoIKnow: none; /* this variable wants you to leave it alone, please respect its wish unless you like red text at the bottom of the sidebar in user settings */
 }
 /* This removes the Gift button */
-.buttons-uaqb-5 > button[aria-label="Send a gift"] {
+.buttons-uaqb-5 > button[aria-label="Envoyer un cadeau"] {
     display: none;
 }
 
 /* This removes the Stickers button */
-.buttons-uaqb-5 button[aria-label="Open sticker picker"] {
+.buttons-uaqb-5 button[aria-label="Ouvrir le sélecteur d'autocollant"] {
     display: none;
 }
