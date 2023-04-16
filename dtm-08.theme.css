@@ -25,6 +25,6 @@
 }
 
 /* This removes the Stickers button */
-.buttons-ejjZWC button[aria-label="Ouvrir le sélecteur d'autocollant"] {
+.buttons-ejjZWC > button[aria-label="Ouvrir le sélecteur d'autocollant"] {
     display: none;
 }
