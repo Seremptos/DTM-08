@@ -18,12 +18,7 @@
   --SettingsSlideAnimDuration2: 0s; /* the sliding effect | default: .5s | disable: 0s */
   --PointlesslyLongVariableNameThatSupposedlyControlsAWarningAboutTheThemeBeingOutdatedButWhatDoIKnow: none; /* this variable wants you to leave it alone, please respect its wish unless you like red text at the bottom of the sidebar in user settings */
 }
-/* This removes the Gift button */
-.buttons-uaqb-5 > button[aria-label="Envoyer un cadeau"] {
-    display: none;
-}
-
-/* This removes the Stickers button */
-.buttons-uaqb-5 button[aria-label="Ouvrir le sélecteur d'autocollant"] {
+/* This removes the Gift and the Stickers button respectively */
+.buttons-uaqb-5 > button, .buttons-uaqb-5 > div:nth-child(3) {
     display: none;
 }
