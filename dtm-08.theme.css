@@ -17,6 +17,11 @@
   --SettingsSlideAnimDuration1: 0s; /* the whole 'zoom out' effect thing idk what its called | default: .8s | disable: 0s */
   --SettingsSlideAnimDuration2: 0s; /* the sliding effect | default: .5s | disable: 0s */
   --PointlesslyLongVariableNameThatSupposedlyControlsAWarningAboutTheThemeBeingOutdatedButWhatDoIKnow: none; /* this variable wants you to leave it alone, please respect its wish unless you like red text at the bottom of the sidebar in user settings */
+
+
+  /* Custom part */
+  --brand-experiment : #7200bd;
+  --brand-experiment-560: #3c0163;
 }
 
 li[aria-posinset="3"] {
@@ -33,22 +38,26 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
     display: none;
 }
 
+
 .content-1gYQeQ > div[tabindex="0"] {
     display: none;
 }
 
+/*Remove section divider*/
 .sectionDivider-189lqb{
     display: none;
 }
 
+/*Remove boost padding before categories*/
 .containerDefault-3TQ5YN{
     padding: 0%;
 }
-
+/*Hide Nitro boosting stuff*/
 .container-2giAcK{
     display: none;
 }
 
+/* Voice Message start*/
 .theme-dark .rippleContainer-3ZCne6{
   background-image: linear-gradient(#35363a,#2b2c2d 50%,#1e2023 50%, #131517);
   margin-left: 0px;
@@ -66,6 +75,33 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
     background: linear-gradient(#949494,#ACADAD 50%,#696969 50%, #636669);
 }
 
+/*Button while playing */
+.theme-dark .playing-1NDSYY .playButtonContainer-2F2cAR {
+    background: linear-gradient(#616161,#797a7a 50%,#363636 50%, #303336);
+}
+
+/*Grey effect on play/pause button*/
+.theme-dark .playButtonContainer-2F2cAR:active .playIcon-1cttj4{
+    color: rgb(156, 156, 156);
+}
+/*Remove discord blue voice message color*/
+.theme-dark .ripple-FNGiLO{
+    background-image: linear-gradient(#35363a,#2b2c2d 50%,#1e2023 50%, #131517);
+    }
+
+/*Pause icon white*/
+.playing-1NDSYY .playIcon-1cttj4 {
+    color: white;
+}
+
+/*Default color for volume bc looks nicer*/
+.playing-1NDSYY .volumeButtonIcon-1W132j {
+    color: var(--interactive-normal);
+    }
+/*Voice Message end*/
+
+
+/* Gif good looking stuff start*/
 .theme-dark .categoryFadeBlurple-1l49_Q, .theme-light .categoryFadeBlurple-1l49_Q {
     background: #9900ff;
     opacity: 0.6;
@@ -77,3 +113,5 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
     opacity: 0.8;
     width: 100.2%;
 }
+/* Gif good looking stuff end*/
+
