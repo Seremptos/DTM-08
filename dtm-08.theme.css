@@ -19,3 +19,63 @@
   --PointlesslyLongVariableNameThatSupposedlyControlsAWarningAboutTheThemeBeingOutdatedButWhatDoIKnow: none; /* this variable wants you to leave it alone, please respect its wish unless you like red text at the bottom of the sidebar in user settings */
 }
 
+li[aria-posinset="3"] {
+    display:none;
+}
+
+/* This removes the Gift button */
+button[aria-label="Envoyer un cadeau"] {
+    display: none;
+}
+
+/* This removes the Stickers button */
+button[aria-label="Ouvrir le sélecteur d'autocollant"] {
+    display: none;
+}
+
+.content-1gYQeQ > div[tabindex="0"] {
+    display: none;
+}
+
+.sectionDivider-189lqb{
+    display: none;
+}
+
+.containerDefault-3TQ5YN{
+    padding: 0%;
+}
+
+.container-2giAcK{
+    display: none;
+}
+
+.theme-dark .rippleContainer-3ZCne6{
+  background-image: linear-gradient(#35363a,#2b2c2d 50%,#1e2023 50%, #131517);
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: inset 0 2px #fff1
+}
+
+.theme-dark .container-3M84ky:not(.playing-1NDSYY) .playButtonContainer-2F2cAR {
+    background: linear-gradient(#616161,#797a7a 50%,#363636 50%, #303336);
+}
+
+.theme-dark .container-3M84ky:not(.playing-1NDSYY) .playButtonContainer-2F2cAR:hover{
+    background: linear-gradient(#949494,#ACADAD 50%,#696969 50%, #636669);
+}
+
+.theme-dark .categoryFadeBlurple-1l49_Q, .theme-light .categoryFadeBlurple-1l49_Q {
+    background: #9900ff;
+    opacity: 0.6;
+    width: 100.2%;
+}
+
+.theme-dark .categoryFadeBlurple-1l49_Q:hover, .theme-light .categoryFadeBlurple-1l49_Q:hover {
+    background: #2f0149;
+    opacity: 0.8;
+    width: 100.2%;
+}
+
+
