@@ -116,3 +116,11 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 }
 /* Gif good looking stuff end*/
 
+/*Make the User panel darker start*/
+.theme-dark .container-YkUktl{
+  /*background: linear-gradient(#323337, #47494e 50%, #424346 50%, #414148);*/
+  background: linear-gradient(#1f1f1f, #454545 50%, #363636 50%, #17171a) !important;
+  box-shadow: inset 0 0 0 1px #FFF2, inset 0 1px #fff3, 0 1px 3px #000 !important;
+}
+/*Make the User panel darker end*/
+
