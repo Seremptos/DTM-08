@@ -126,3 +126,13 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 }
 /*Make the User panel darker end*/
 
+/*Change channel box shadow (left colory thing) color*/
+.theme-dark .modeSelected-3DmyhH .content-1gYQeQ {
+    box-shadow: inset 2px 0 #9a52f7bb !important;
+}
+
+/*Change bot tag to violet*/
+.botTag-7aX5WZ {
+    background: linear-gradient(#874bee61, #ce52ffdb 50%, #c276ffb5 50%, #b26dfe) !important;
+}
+
