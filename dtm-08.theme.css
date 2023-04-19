@@ -124,7 +124,7 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 }
 
 .theme-dark .avatarWrapper-1B9FTW.withTagAsButton-OsgQ9L:hover, .theme-dark .avatarWrapper-1B9FTW.withTagAsButton-OsgQ9L:active {
-    background: linear-gradient(to right, #fff2, #fff0);
+    background: linear-gradient(to right, #fff1, #fff0) !important;
 }
 /*Make the User panel darker end*/
 
