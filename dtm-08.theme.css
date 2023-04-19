@@ -104,13 +104,13 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 
 /* Gif good looking stuff start*/
 .theme-dark .categoryFadeBlurple-1l49_Q, .theme-light .categoryFadeBlurple-1l49_Q {
-    background: #9900ff;
-    opacity: 0.6;
+    background: #2f004a;
+    opacity: 0.856;
     width: 100.2%;
 }
 
 .theme-dark .categoryFadeBlurple-1l49_Q:hover, .theme-light .categoryFadeBlurple-1l49_Q:hover {
-    background: #2f0149;
+    background: #16002b;
     opacity: 0.8;
     width: 100.2%;
 }
