@@ -25,6 +25,7 @@
   --brand-experiment : #7200bd;
   --brand-experiment-560: #3c0163;
   --brand-500 : rgb(182, 0, 237);
+  --control-brand-foreground : rgb(179, 0, 255);
 }
 
 li[aria-posinset="3"] {
@@ -219,4 +220,10 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
     padding-bottom :5%;
 }
 /*Remove vencord donate end*/
+
+/*Change buttons color start*/
+.lookFilled-1H2Jvj, .button-coQXfM, .bd-button, .downloadButton-2XskEc, .activeNavItemPrimary-eyFkcI, .filledBrand-3fai8P, .activeLink-2Ai-iE {
+    background: linear-gradient(to bottom, #c382ff 0%, #b16dff 50%, #ac56ce 50%,#8b4cd2 100%) !important;
+}
+/*Change buttons color end*/
 
