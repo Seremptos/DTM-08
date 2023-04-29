@@ -377,16 +377,16 @@
   border-top: solid 1px #ffffff
 }
 .lookFilled-1H2Jvj, .button-coQXfM, .bd-button, .downloadButton-2XskEc, .activeNavItemPrimary-eyFkcI, .filledBrand-3fai8P, .activeLink-2Ai-iE {
-  background: linear-gradient(to bottom, #828eff 0%, #6d7bff 50%, #5661ce 50%,#4c58d2 100%) !important;
+  background: linear-gradient(to bottom, #828eff 0%, #6d7bff 50%, #5661ce 50%,#4c58d2 100%);
   text-shadow: 0 -1px #000, 0 1px 3px #0004;
   box-shadow: 0 0 0 1px #000b, inset 0 0 0 1px #fff4, inset 0 1px #fff4, inset 0 -1px #0008, 0 0 1px 2px #fff2;
 }
 .lookFilled-1H2Jvj:hover, .button-coQXfM:hover, .bd-button:hover, .downloadButton-2XskEc:hover, .filledBrand-3fai8P:hover {
-  background: linear-gradient(to bottom, #afb7ff 0%, #8d97ff 50%, #7481ff 50%,#5966e4 100%) !important;
+  background: linear-gradient(to bottom, #afb7ff 0%, #8d97ff 50%, #7481ff 50%,#5966e4 100%);
   box-shadow: 0 0 0 1px #000b, inset 0 0 0 1px #fff4, inset 0 1px #fff8, inset 0 -1px #6662, 0 0 3px 2px #fff6;
 }
 .lookFilled-1H2Jvj:active, .button-coQXfM:active, .bd-button:active, .downloadButton-2XskEc:active, .filledBrand-3fai8P:active {
-  background: linear-gradient(to bottom, #4d57ad 0%, #474f9e 50%, #3d4382 50%,#4e59bd 100%) !important;
+  background: linear-gradient(to bottom, #4d57ad 0%, #474f9e 50%, #3d4382 50%,#4e59bd 100%);
   box-shadow: 0 0 0 1px #000b, inset 0 0 0 1px #fff2, inset 0 1px #fff2, inset 0 -1px #0002, 0 0 1px 2px #fff6;
 }
 .theme-light .lookFilled-1H2Jvj.colorPrimary-2-Lusz, .theme-light .platform-1ZMvDu:not(.active-1j5w_A) .downloadButton-2XskEc, .theme-light .staticToolbar-x12NJC .lookFilled-1H2Jvj {
