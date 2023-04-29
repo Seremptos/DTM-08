@@ -203,6 +203,12 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 }
 /*Hotfix settings sliders end*/
 
+/*Custom sliders color start*/
+.container-1QtPKm .input-125oad:checked:before {
+    background: linear-gradient(#c884ff, #8b5ac3) !important;
+}
+/*Custom sliders color end*/
+
 /*Remove vencord donate start*/
 .vc-settings-card.vc-settings-donate.cardPrimary-pAe8Ed.card-2guEcY{
     display: none;
