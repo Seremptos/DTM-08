@@ -10,7 +10,7 @@
   --SettingsSlideAnimDuration1: 0s; /* the whole 'zoom out' effect thing idk what its called | default: .8s | disable: 0s */
   --SettingsSlideAnimDuration2: 0s; /* the sliding effect | default: .5s | disable: 0s */
 }
-.container-YkUktl {
+.container-1CH86i {
   border-top: solid 1px #0D0E11;
   margin-bottom: 0px
 }
@@ -370,10 +370,10 @@
   border-color: #fff !important;
   background: #fff2 !important;
 }
-.container-YkUktl {
+.container-1CH86i {
   border-top: solid 1px #0d0e11
 }
-.theme-light .container-YkUktl {
+.theme-light .container-1CH86i {
   border-top: solid 1px #ffffff
 }
 .lookFilled-1H2Jvj, .button-coQXfM, .bd-button, .downloadButton-2XskEc, .activeNavItemPrimary-eyFkcI, .filledBrand-3fai8P, .activeLink-2Ai-iE {
@@ -2665,16 +2665,16 @@ html.theme-light .root-1CAIjD {
   background: linear-gradient(#202023, #35353a 50%, #2a2c2f 50%, #171719);
   box-shadow: inset 0 1px 1px #fff3;
 }
-.container-YkUktl, .activityPanel-9icbyU {
+.container-1CH86i, .activityPanel-9icbyU {
   border: none;
 }
-.theme-light .activityPanel-9icbyU, .theme-light .container-YkUktl {
+.theme-light .activityPanel-9icbyU, .theme-light .container-1CH86i {
   background: linear-gradient(#d5dce2 0%, #c7cad0 49%, #bfc3c7 49%, #b4b8bd 100%);
   border-top: 0px;
   box-shadow: 0 0 0 1px #fffb, inset 0 0 0 1px #0001, inset 0 1px #0004, 0 1px 4px #666;
   border-bottom: none
 }
-.theme-light .container-YkUktl, .theme-light .container-1zzFcN, .theme-light .activityPanel-9icbyU {
+.theme-light .container-1CH86i, .theme-light .container-1zzFcN, .theme-light .activityPanel-9icbyU {
   background: linear-gradient(#ffffff05, #fff2) !important;
   box-shadow: 0 0 0 1px #b7b7b788, inset 0 0 0 1px #fff2, inset 0 1px #fff3, 0 1px 4px #676767;
   border-radius: 5px;
@@ -2682,7 +2682,7 @@ html.theme-light .root-1CAIjD {
   padding: 4px;
   height: auto;
 }
-.theme-dark .container-YkUktl, .theme-dark .container-1zzFcN, .theme-dark .activityPanel-9icbyU {
+.theme-dark .container-1CH86i, .theme-dark .container-1zzFcN, .theme-dark .activityPanel-9icbyU {
   background: linear-gradient(#323337, #47494e 50%, #424346 50%, #414148);
   box-shadow: inset 0 0 0 1px #fff3, inset 0 1px #fff3, 0 1px 3px #000;
   border-radius: 3px;
@@ -2690,10 +2690,10 @@ html.theme-light .root-1CAIjD {
   padding: 4px;
   height: auto;
 }
-.theme-light .container-YkUktl .title-338goq {color: #000}
-.theme-dark .container-YkUktl .title-338goq {color: #fff}
-.theme-light .container-YkUktl .subtext-2HDqJ7 {color: #0006}
-.theme-dark .container-YkUktl .subtext-2HDqJ7 {color: #fff6}
+.theme-light .container-1CH86i .title-338goq {color: #000}
+.theme-dark .container-1CH86i .title-338goq {color: #fff}
+.theme-light .container-1CH86i .subtext-2HDqJ7 {color: #0006}
+.theme-dark .container-1CH86i .subtext-2HDqJ7 {color: #fff6}
 .container-3EtAkD {
   background: linear-gradient(#3c3e44,#2d2d33);
   box-shadow: inset 0 0 0 1px #fff2, 0 0 0 1px #000, 0 1px 3px #000;
