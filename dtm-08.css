@@ -1,5 +1,5 @@
 :root {
-  --theme-version: "233";
+  --theme-version: "234.1";
   --theme-verdate: "Oct 18, 2023";
   --login-background: url(https://cdn.discordapp.com/attachments/733624227378495488/1030444096210358342/fd91131ea693096d6be5e8aa99d18f9e.jpg);
   --login-background-source: "Discord"; /* this is where the login background is from */
@@ -5731,7 +5731,7 @@ html.theme-dark .layer-1Ixpg3>.theme-light>.focusLock-bHVOlV {
   background: #fff;
   border-color: #fff;
 }
-.member-48YF_l, .members-2y1nVj {
+.member-2iQhp7, .members-2y1nVj {
     background: #0000;
 }
 .imageUploaderIconWrapper-14sdnH {
