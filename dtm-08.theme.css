@@ -118,13 +118,13 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 /* Gif good looking stuff end*/
 
 /*Make the User panel darker start*/
-.theme-dark .container-1CH86i{
+.theme-dark .container_ca50b9{
   /*background: linear-gradient(#323337, #47494e 50%, #424346 50%, #414148);*/
   background: linear-gradient(#1f1f1f, #454545 50%, #363636 50%, #17171a) !important;
   box-shadow: inset 0 0 0 1px #FFF2, inset 0 1px #fff3, 0 1px 3px #000 !important;
 }
 
-.theme-dark .avatarWrapper-1B9FTW.withTagAsButton-OsgQ9L:hover, .theme-dark .avatarWrapper-1B9FTW.withTagAsButton-OsgQ9L:active {
+.theme-dark .avatarWrapper_ba5175 withTagAsButton_cc125f:hover, .theme-dark .avatarWrapper_ba5175.withTagAsButton_cc125f:active {
     background: linear-gradient(to right, #fff1, #fff0) !important;
 }
 /*Make the User panel darker end*/
@@ -135,12 +135,12 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 }
 
 /*Change bot tag to violet*/
-.botTag-7aX5WZ {
+.botTag_a52f38 {
     background: linear-gradient(#874bee61, #ce52ffdb 50%, #c276ffb5 50%, #b26dfe) !important;
 }
 
 /*Animate the discord DM/Friends logo*/
-.tutorialContainer-1pL9QS .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub{
+.tutorialContainer__890ea .wrapper_d281dd .wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c{
     animation: discordLogoMooving 0.25s;
     background: linear-gradient(#79459c, #cb62ff 50%, #cb62ff 50%, #8d378e) !important;
 }
