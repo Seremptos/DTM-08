@@ -140,7 +140,7 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 }
 
 /*Animate the discord DM/Friends logo*/
-.tutorialContainer__890ea .wrapper_d281dd .wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c{
+.tutorialContainer__890ea .wrapper_3af0b .wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c{
     animation: discordLogoMooving 0.25s;
     background: linear-gradient(#79459c, #cb62ff 50%, #cb62ff 50%, #8d378e) !important;
 }
