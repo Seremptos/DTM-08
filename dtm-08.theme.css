@@ -222,13 +222,13 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 /*Remove vencord donate end*/
 
 /*Change buttons color start*/
-.lookFilled-1H2Jvj, .button-coQXfM, .bd-button, .downloadButton-2XskEc, .activeNavItemPrimary-eyFkcI, .filledBrand-3fai8P, .activeLink-2Ai-iE {
+.lookFilled__19298, .button-coQXfM, .bd-button, .downloadButton__87489, .activeNavItemPrimary-eyFkcI, .filledBrand-3fai8P, .activeLink-2Ai-iE {
     background: linear-gradient(to bottom, #c382ff 0%, #b16dff 50%, #ac56ce 50%,#8b4cd2 100%) !important;
 }
-.lookFilled-1H2Jvj:hover, .button-coQXfM:hover, .bd-button:hover, .downloadButton-2XskEc:hover, .filledBrand-3fai8P:hover {
+.lookFilled__19298:hover, .button-coQXfM:hover, .bd-button:hover, .downloadButton__87489:hover, .filledBrand-3fai8P:hover {
   background: linear-gradient(to bottom, #cb7cff 0%, #cc8dff 50%, #bc74ff 50%,#c459e4 100%)!important;
 }
-.lookFilled-1H2Jvj:active, .button-coQXfM:active, .bd-button:active, .downloadButton-2XskEc:active, .filledBrand-3fai8P:active {
+.lookFilled__19298:active, .button-coQXfM:active, .bd-button:active, .downloadButton__87489:active, .filledBrand-3fai8P:active {
   background: linear-gradient(to bottom, #924dad 0%, #7b479e 50%, #6e3d82 50%,#a74ebd 100%)!important;
 }
 /*Change buttons color end*/
