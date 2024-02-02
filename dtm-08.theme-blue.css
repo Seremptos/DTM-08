@@ -421,3 +421,7 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 .headerFull_c60f77 {
     background: none !important;
 }
+
+.overlayBackground__86b78 {
+    background-color: var(--nord-secondary);
+}
