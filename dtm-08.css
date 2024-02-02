@@ -1331,10 +1331,10 @@ html.theme-light .root_a28985 {
   box-shadow: 0 0 0 1px #0004, inset 0 0, 0 0, 0 0 0 2px #fff1, inset 0 0 2px 1px #0003;
 }
 .contentRegionScroller__86c79, .contentRegion__0bec1, .theme-dark .contentWrapper-3RqEiS {
-  background: linear-gradient(#303238,#232529)!important
+  background: linear-gradient(#303238,#232529)
 }
 .theme-light .contentRegionScroller__86c79, .theme-light .contentRegion__0bec1 {
-  background: linear-gradient(#ffffff,#e2e2e2)!important
+  background: linear-gradient(#ffffff,#e2e2e2)
 }
 .powercord-entities-manage-tabs {
   background: linear-gradient(#272727,#3e3e3e);
@@ -1857,10 +1857,10 @@ html.theme-light .root_a28985 {
   background: #0000
 }
 .theme-light .sidebarRegionScroller__1fa7e {
-  background: linear-gradient(#e8e8e8,#cecece)!important
+  background: linear-gradient(#e8e8e8,#cecece)
 }
 .theme-dark .sidebarRegionScroller__1fa7e, .theme-dark .wrapper-28jGDw {
-  background: linear-gradient(#27282d,#18191c)!important
+  background: linear-gradient(#27282d,#18191c)
 }
 [aria-label="USER_SETTINGS"] .contentColumn_dc7d36.contentColumnDefault_c66386>div>.sectionTitle-3j2YI1+.children_b15c64>.container__7712a.large__17b83+.group_c2a6cb.marginTop20_d88ee7:before {
   content: "the cord of dis";
