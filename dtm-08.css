@@ -2620,8 +2620,8 @@ html.theme-light .root-1CAIjD {
 }
 .channelTextAreaDisabled-1p2fQv .scrollableContainer-15eg7h {
   opacity: 1;
-  background: none !important;
-  box-shadow: none !important;
+  background: none;
+  box-shadow: none;
   border-color: #0000;
 }
 .channelTextAreaDisabled-1p2fQv .innerDisabled-2dbG11 {
