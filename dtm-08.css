@@ -943,7 +943,7 @@ img[src="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 }
 .theme-dark .side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy, .theme-dark .topPill-2vcLsa .themed-qqoYp3.selected-1sf9UK.item-2GWPIy,
 .theme-dark .topPill-2vcLsa .item-2GWPIy[aria-selected="true"] {
-  background: linear-gradient(#44464e, #33393e 50%, #2b2d32 50%, #2a2c34) !important;
+  background: linear-gradient(#44464e, #33393e 50%, #2b2d32 50%, #2a2c34);
   box-shadow: 0 0 0 1px #0008, inset 0 0 0 1px #fff2, 0 1px 3px #000;
   text-shadow: 1px 1px 2px #000;
   color: #fff;
