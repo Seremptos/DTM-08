@@ -1341,10 +1341,10 @@ html.theme-light .root-1CAIjD {
   box-shadow: 0 0 0 1px #0004, inset 0 0, 0 0, 0 0 0 2px #fff1, inset 0 0 2px 1px #0003;
 }
 .contentRegionScroller-2_GT_N, .contentRegion-3HkfJJ, .theme-dark .contentWrapper-3RqEiS {
-  background: linear-gradient(#303238,#232529)!important
+  background: linear-gradient(#303238,#232529)
 }
 .theme-light .contentRegionScroller-2_GT_N, .theme-light .contentRegion-3HkfJJ {
-  background: linear-gradient(#ffffff,#e2e2e2)!important
+  background: linear-gradient(#ffffff,#e2e2e2)
 }
 .powercord-entities-manage-tabs {
   background: linear-gradient(#272727,#3e3e3e);
