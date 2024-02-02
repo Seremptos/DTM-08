@@ -22,10 +22,10 @@
 
   /* Custom part */
   --text-link : rgb(199, 121, 255);
-  --brand-experiment : #7200bd;
+  /*--brand-experiment : #7200bd;
   --brand-experiment-560: #3c0163;
   --brand-500 : rgb(182, 0, 237);
-  --control-brand-foreground : rgb(179, 0, 255);
+  --control-brand-foreground : rgb(179, 0, 255);*/
 }
 
 li[aria-posinset="3"] {
