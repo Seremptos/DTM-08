@@ -2601,34 +2601,8 @@ html.theme-light .root_a28985 {
   font-weight: 380;
   font-style: normal;
 }
-.channelTextAreaDisabled_c43b1c .scrollableContainer__33e06 {
-  opacity: 1;
-  background: none !important;
-  box-shadow: none !important;
-  border-color: #0000;
-}
-.channelTextAreaDisabled_c43b1c .innerDisabled__37f59 {
-  cursor: unset;
-}
 .innerDisabled__37f59 .buttons_ce5b56 {
   opacity: .25;
-}
-.channelTextAreaDisabled_c43b1c .innerDisabled__37f59 .attachButton_b1db83 {
-  background: linear-gradient(to bottom,#151719 0%,#1d1e21 50%,#202125 50%,#222427 100%)!important;
-  border-radius: 3px;
-  border: solid 1px #000;
-  box-shadow: inset 0 0 0 1px #fff2;
-}
-.theme-light .channelTextAreaDisabled_c43b1c .innerDisabled__37f59 .attachButton_b1db83 {
-  background: linear-gradient(to bottom,#fefefe 0%,#ffffff 50%,#f8f8f8 50%,#e8e8e8 100%)!important;
-  border: solid 1px #aaa;
-  box-shadow: inset 0 2px 5px #0004, 0 0 4px 1px #fff;
-}
-.channelTextAreaDisabled_c43b1c .placeholder__4bea5 {
-  opacity: 1;
-  color: var(--header-secondary);
-  font-weight: 600;
-  text-align: center;
 }
 .bar_edc096 {
   text-transform: none;
