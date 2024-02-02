@@ -410,3 +410,14 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 .input_d266e7, .lookFilled__3dba3.select__0eb48, .searchPage-3tt6dh .search-25t1e9, .addFriendInputWrapper__4bf8e, .inputWrapper_b7205b, .header_c01fde, .searchBox_a63854 {
     background: linear-gradient(#1c2858, #0e2e5e 50%, #091c42 50%, #0b153b) !important;
 }
+
+.scroller__00e7e {
+    background: var(--nord-secondary)
+}
+
+.wrapper__6e669, .body__83069, .theme-dark .container-S9SaVf {
+     background: linear-gradient(#212e61, #09133c) !important;
+}
+.headerFull_c60f77 {
+    background: none !important;
+}
