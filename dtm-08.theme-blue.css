@@ -429,3 +429,11 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 .theme-dark .container_d667ff {
     background: linear-gradient(#09238c, #073b63 50%, #08277a 50%, #061654) !important;
 }
+
+.panels__58331 .wrapper__0ed4a .container_d667ff .actionButtons_b58cbb {
+    background: linear-gradient(#25282b, #0C0C0C);
+}
+
+.panels__58331 .wrapper__0ed4a .container_d667ff .actionButtons_b58cbb .lookFilled__19298.colorBrand_b2253e {
+    background: linear-gradient(#1341fa, #0a63a7 50%, #072f9f 50%, #051863) !important;
+}
