@@ -425,3 +425,7 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 .overlayBackground__86b78 {
     background-color: var(--nord-secondary);
 }
+
+.theme-dark .container_d667ff {
+    background: linear-gradient(#09238c, #073b63 50%, #08277a 50%, #061654) !important;
+}
