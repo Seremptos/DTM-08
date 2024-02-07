@@ -441,3 +441,7 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 .embed_d3cbe3 {
     background: linear-gradient(#051658, #05375e 50%, #06295d 50%, #07195f) !important;
 }
+
+.vc-notification-root {
+    background-color: var(--nord-tertiary) !important;
+}
