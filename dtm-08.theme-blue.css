@@ -453,3 +453,11 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 .audioControls__9fbe9 {
     background: linear-gradient(rgb(4 32 141), rgb(6 88 152) 50%, rgb(0 59 147) 50%, rgb(8 25 93));
 }
+
+.theme-dark .contentWrapper__321ed {
+    background: linear-gradient(#091c78, #010e1e 98px);
+}
+
+.container_e4c233, .container__7712a {
+    background: linear-gradient(rgb(8, 50, 92) 0%, rgb(8, 29, 92) 50%, rgb(10, 24, 80) 50%, rgb(6, 26, 58) 100%);
+}
