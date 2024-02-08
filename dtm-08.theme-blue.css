@@ -461,3 +461,27 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 .container_e4c233, .container__7712a {
     background: linear-gradient(rgb(8, 50, 92) 0%, rgb(8, 29, 92) 50%, rgb(10, 24, 80) 50%, rgb(6, 26, 58) 100%);
 }
+
+.navButtonActive__735cb {
+    background: linear-gradient(rgb(0 99 199) 0%, rgb(0 32 126) 50%, rgb(0 21 104) 50%, rgb(0 40 104) 100%);
+}
+
+.theme-dark .list__30719, .theme-dark .wrapper_e3070a .scroller_e89578, .theme-dark .results-3OoWM- {
+    background: linear-gradient(#1c285a, #000e2d);
+}
+
+.theme-dark .header_c3c744, .theme-dark .packHeader__8b804 {
+    background: linear-gradient(#010c2e, #002173);
+}
+
+.inspector__993e1 {
+    background: linear-gradient(#002183,#000000);
+}
+
+.unicodeShortcut__1dd6b {
+    background: linear-gradient(#002183,#000000);
+}
+
+.theme-dark .wrapper_efe67f {
+    background: linear-gradient(#000052, #000026);
+}
