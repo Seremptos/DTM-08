@@ -445,3 +445,7 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 .vc-notification-root {
     background-color: var(--nord-tertiary) !important;
 }
+
+.theme-dark .wrapperAudio__555ce, .theme-dark .attachment_f3cf2c {
+    background: linear-gradient(rgb(5, 22, 88), rgb(5, 55, 94) 50%, rgb(6, 41, 93) 50%, rgb(7, 25, 95));
+}
