@@ -485,3 +485,7 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 .theme-dark .wrapper_efe67f {
     background: linear-gradient(#000052, #000026);
 }
+  
+.replyBar_b64d74, .threadSuggestionBar_b633f7 {
+    background: linear-gradient(#00246c, #01104e 50%, #00143d 50%, #000f25);
+}
