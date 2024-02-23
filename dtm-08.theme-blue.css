@@ -230,7 +230,7 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 
 /*Change buttons color start*/
 
-.lookFilled__19298, .button-coQXfM, .bd-button, .downloadButton__87489, .activeNavItemPrimary-eyFkcI, .filledBrand-3fai8P, .activeLink-2Ai-iE {
+.lookFilled__19298, .button-coQXfM, .bd-button, .downloadButton__87489, .activeNavItemPrimary-eyFkcI, .filledBrand-3fai8P, .activeLink-2Ai-iE, .wrapper__7bcde:hover {
     background: linear-gradient(#343e67, #274661 50%, #24335a 50%, #232e5e) !important;
 }
 .lookFilled__19298:hover, .button-coQXfM:hover, .bd-button:hover, .downloadButton__87489:hover, .filledBrand-3fai8P:hover {
