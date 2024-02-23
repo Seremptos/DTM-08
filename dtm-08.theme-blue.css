@@ -230,7 +230,7 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
 
 /*Change buttons color start*/
 
-.lookFilled__19298, .button-coQXfM, .bd-button, .downloadButton__87489, .activeNavItemPrimary-eyFkcI, .filledBrand-3fai8P, .activeLink-2Ai-iE, .wrapper__7bcde:hover {
+.lookFilled__19298, .button-coQXfM, .bd-button, .downloadButton__87489, .activeNavItemPrimary-eyFkcI, .filledBrand-3fai8P, .activeLink-2Ai-iE {
     background: linear-gradient(#343e67, #274661 50%, #24335a 50%, #232e5e) !important;
 }
 .lookFilled__19298:hover, .button-coQXfM:hover, .bd-button:hover, .downloadButton__87489:hover, .filledBrand-3fai8P:hover {
@@ -297,7 +297,7 @@ button[aria-label="Ouvrir le sélecteur d'autocollant"] {
     background-image: linear-gradient(#374686,#244a72 50%,#233e68 50%, #1c3854) !important;
 }
 
-.searchBar-zdmu7v, .searchBar_e0c60b {
+.searchBar-zdmu7v, .searchBar_e0c60b, .wrapper__7bcde:hover {
     background: linear-gradient(to bottom,#08325c 0%,#081d5c 50%,#0a1850 50%,#061a3a 100%)!important;
 }
 
